@@ -88,6 +88,9 @@ Make sure to set the following in your script:
 
 ---
 
+<img width="1170" height="1633" alt="image" src="https://github.com/user-attachments/assets/74c102d3-1318-4942-8ccb-33984fa598ce" />
+
+
 ## 📌 Author
 
 Developed by **CryoYohan** — feel free to contribute or fork!
