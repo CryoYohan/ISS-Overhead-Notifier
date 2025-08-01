@@ -90,7 +90,7 @@ Make sure to set the following in your script:
 
 ## 📌 Author
 
-Developed by **[Your Name]** — feel free to contribute or fork!
+Developed by **CryoYohan** — feel free to contribute or fork!
 
 
 
